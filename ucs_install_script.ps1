@@ -1,4 +1,5 @@
-﻿#requires -version 4
+﻿
+#requires -version 4
 <#
 .NOTES
 Information on running PowerShell scripts can be found here:
