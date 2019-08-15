@@ -5,7 +5,7 @@ The script has been developed by Boris Aelen.
 Mail: borisaelen@gmail.com
 Twitter: https://twitter.com/borisaelen
 
-.DESCRIPTION
+## DESCRIPTION
 This script will provision the following UCS components for you:
 o	DNS & NTP servers
 o	Callhome profiles  (e-mail alerts)
