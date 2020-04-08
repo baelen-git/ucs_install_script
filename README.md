@@ -2,7 +2,7 @@
 
 This script can provision a new UCS enviornment for you. <br>
 The script has been developed by Boris Aelen. <br>
-Mail: borisaelen@gmail.com <br>
+Mail: boris@borisaelen.nl <br>
 Twitter: https://twitter.com/borisaelen <br>
 
 ## DESCRIPTION
