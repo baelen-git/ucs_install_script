@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/baelen-git/ucs_install_script)
+
 # UCS_Install_script
 
 This script can provision a new UCS enviornment for you. <br>
