@@ -40,16 +40,16 @@ Then configure all the settings in the file.<br>
 Powershell knowledge is required to use this script, it is not very user friendly.
 If you want you can also edit the other variables in the main script file to create the UCS environment you want.<br>
 
-# Configuration
+## Configuration
 
 The script is very static and provisions the UCS environment following the best practises that I use personally.
 If you don't want to use some parts of the script, please comment them out inside the script.
 
-# DevNet Sandbox
+## DevNet Sandbox
 
 There is no Sandbox at the moment that has Powershell version 5 or higher.
 
-# Getting help
+## Getting help
 
 Feel free to send me an e-mail with questions.
 
