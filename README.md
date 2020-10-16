@@ -28,6 +28,10 @@ NOTE: The script assumes an UCS environment with default settings. <br>
       It won't remove any additional configuration that might be in the UCS environment and could mess up your config.<br>
 
 ## USAGE
+Enable PowerShell to run scripts by bypassing the default execution policy for the current user:
+Set-ExecutionPolicy Bypass -Scope CurrentUser -Force. 
+
+
 Make a copy of the sensitive_information-template.ps1 and name it: sensitive_information.ps1.<br>
 Then configure all the settings in the file.<br>
 If you want you can also edit the other variables in the main script file to create the UCS environment you want.<br>
