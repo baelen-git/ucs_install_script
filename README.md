@@ -19,7 +19,7 @@ This script will provision the following UCS components for you:
 -	Fabric Interconnect server porten
 -	Fabric Interconnect Portchannel Uplinks
 -	Tentant 
--	Serveral policies (BIOS/boot/firmware/maintenance/scrub/global/localdisk/diskgroup)
+-	Several policies (BIOS/boot/firmware/maintenance/scrub/global/localdisk/diskgroup)
 -	Several pools (server/uuid/mac/cimc)
 -	VLANS
 -	vNIC Templates
@@ -36,6 +36,9 @@ Set-ExecutionPolicy Bypass -Scope CurrentUser -Force.
 
 Make a copy of the sensitive_information-template.ps1 and name it: sensitive_information.ps1.<br>
 Then configure all the settings in the file.<br>
+
+Execute the script with:
+./ucs_install_script.ps1
 
 Powershell knowledge is required to use this script, it is not very user friendly.
 If you want you can also edit the other variables in the main script file to create the UCS environment you want.<br>
